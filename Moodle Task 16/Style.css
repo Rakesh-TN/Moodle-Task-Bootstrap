@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto&display=swap');
+.nameDev{
+    color: darkblue;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+.job_Title{
+    color: darkblue;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+}
