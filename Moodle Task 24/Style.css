@@ -1,0 +1,10 @@
+body{
+    /* overflow: hidden; */
+}
+.easy-Connect{
+    height: 150px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+}
