@@ -1,0 +1,11 @@
+.card-img-top {
+    height: 250px !important;
+    width: 250px !important;
+}
+.vr_Kit_1,.vr_Kit_2,.vr_Kit_3{
+    border: none;
+    width: 18rem;
+}
+.card{
+    border: none;
+}
