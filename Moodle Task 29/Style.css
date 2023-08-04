@@ -1,8 +1,11 @@
+body{
+    background-color: #19232d;
+}
 .Cus-Bg-Image{
     background-color: #19232d;
     height: 100%;
     width: 100%;
-    margin-top: 140px;
+    margin-top: 130px;
 }
 .Cus-Image{
     height: 60px;
@@ -17,9 +20,9 @@
     font-size: 30px;
     display: inline-block;
     border-radius: 60px;
-  box-shadow: 0 0 2px  #202b36;
-  padding: 0.5em 0.6em;
-  background-color: #202b36; 
+    box-shadow: 0 0 2px  #202b36;
+    padding: 0.5em 0.6em;
+    background-color: #202b36; 
 }
 .Cus-Address{
     font-size: 30px;
